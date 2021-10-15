@@ -3,6 +3,16 @@ entries:
   besu-public:
   - apiVersion: v2
     appVersion: "21.10"
+    created: "2021-10-15T11:32:39.113592049Z"
+    description: Hyperledger Besu basic set for public chains
+    digest: 2b9f98afd4f9ce79e7c8df3eb033b80afb77e4ad718c7eff1c8420ce497668f3
+    name: besu-public
+    type: application
+    urls:
+    - https://github.com/SIMBAChain/helm-charts/releases/download/besu-public-0.1.4/besu-public-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: "21.10"
     created: "2021-10-15T11:14:05.100658494Z"
     description: A Helm chart for Kubernetes
     digest: 98e635cc6433701759b55b56ddf973b135bc4a9e1258d938707a27b1fc167629
