@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  besu-public:
+  - apiVersion: v2
+    appVersion: "21.10"
+    created: "2021-10-15T11:10:54.865384554Z"
+    description: A Helm chart for Kubernetes
+    digest: 57d2ced8c1eb8b7effcaec3da480223dc8e685e409c2a75986b5e8caab406596
+    name: besu-public
+    type: application
+    urls:
+    - https://github.com/SIMBAChain/helm-charts/releases/download/besu-public-0.1.2/besu-public-0.1.2.tgz
+    version: 0.1.2
+generated: "2021-10-15T11:10:54.728230637Z"
